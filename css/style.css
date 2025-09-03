@@ -10,6 +10,7 @@
 /*home*/
 @import url("./home/introducao.css");
 @import url("./home/tecnologia.css");
+@import url("./home/parceiros.css");
 
 /*bicicletas*/
 @import url("./bicicletas/bicicletas-listas.css");
