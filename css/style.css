@@ -30,7 +30,8 @@
 
 /*termos*/
 @import url("./termos/termos.css");
-
+/*termos*/
+@import url("./orcamento/orcamento.css");
 /*contato*/
 @import url("./contato/contato.css");
 @import url("./contato/lojas.css");
