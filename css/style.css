@@ -8,6 +8,7 @@
 @import url("./utilidades/tipografia.css");
 @import url("./utilidades/cores.css");
 @import url("./utilidades/formulario.css");
+@import url("./utilidades/animacao.css");
 
 /*home*/
 @import url("./home/introducao.css");
@@ -30,8 +31,10 @@
 
 /*termos*/
 @import url("./termos/termos.css");
-/*termos*/
+
+/*orcamento*/
 @import url("./orcamento/orcamento.css");
+
 /*contato*/
 @import url("./contato/contato.css");
 @import url("./contato/lojas.css");
