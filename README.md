@@ -30,4 +30,4 @@ O site possui várias páginas internas simulando uma experiência completa de e
 ## 📁 Como usar
 
 1.Disponivel para uso ja hospedado pelo github pelo link:
-[git clone https://github.com/seu-usuario/bikcraft.git](https://gabriel-apg.github.io/gabriel-apg.github.io-Bikcraft)
+https://gabriel-apg.github.io/Bikcraft
